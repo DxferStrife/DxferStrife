@@ -38,7 +38,7 @@ Tengo experiencia trabajando en distintos entornos, desde el desarrollo académi
 ## 📬 Contacto
 Si quieres hablar sobre desarrollo, automatización de procesos, o si necesitas que revise tus drafts para el próximo Clash, puedes encontrarme aquí:
 
-*   **LinkedIn:** [Mi perfil de trabajo](wwww.linkedin.com/in/fernando-velasco-a36942238)
+*   **LinkedIn:** [Mi perfil de trabajo](www.linkedin.com/in/fernando-velasco-a36942238)
 *   **Correo:** [Mi correo](mailto:fernantwd@gmai.com)
 
 ---
